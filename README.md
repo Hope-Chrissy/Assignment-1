@@ -1,2 +1,2 @@
-# Assignment-1
-Bright
+# Research Assignment-1
+Brightlearn Assignement 1
